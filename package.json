@@ -1,0 +1,24 @@
+{
+    "name": "com.vk.uisystem",
+    "version": "1.0.0",
+    "displayName": "UI System",
+    "description": "UI System",
+    "unity": "2019.1",
+    "dependencies": {       
+    },
+    "keywords": [
+        "ui"
+    ],
+    "samples": [
+        {
+            "displayName": "Samples",
+            "description": "Sample scenes for demonstration purposes.",
+            "path": "Samples"
+        }
+    ],
+    "author": {
+        "name": "Varun Khatri",
+        "email": "varun.khatri18@gmail.com",
+        "url": ""
+    }
+}
