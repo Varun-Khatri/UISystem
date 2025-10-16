@@ -2,6 +2,47 @@
 
 A layer-based UI management system for Unity with built-in navigation, state tracking, and event-driven architecture. Perfect for complex game UIs with multiple screens and panels.
 
+## 📦 Installation & Setup
+
+### Package Structure
+
+```text
+Assets/Packages/[Package Name]/
+├── Runtime/                 # Core system files
+│   ├── [MainSystemFiles].cs
+│   └── ...
+└── Samples/                 # Sample implementations
+    ├── ExampleComponent1.cs
+    ├── ExampleComponent2.cs
+    └── ExampleScene.unity   (if included)
+```
+
+### Installation Methods
+**Method 1: Unity Package Manager (Recommended)**
+
+- Open Window → Package Manager
+- Click + → Add package from git URL
+- Enter your repository URL:
+
+```text
+https://github.com/[username]/[repository-name].git
+The system will be installed in Assets/Packages/[System Name]/
+```
+
+**Method 2: Manual Installation**
+
+- Download the repository or clone it
+- Copy the entire package folder to:
+
+```text
+Assets/Packages/[System Name]/
+The system is ready to use
+```
+
+### Accessing Samples
+
+After installation, access samples at Assets/Packages/[System Name]/Samples/
+
 ## 🎯 Features
 
 - **Layer-Based Management** - Organized UI hierarchy with 5 distinct layers
