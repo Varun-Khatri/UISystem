@@ -75,12 +75,6 @@ After installation, access samples at Assets/Packages/[System Name]/Samples/
 | **Overlay** | Temporary elements | Tooltips, notifications |
 | **Debug** | Developer tools | Debug info, cheat console |
 
-## 📦 Installation
-
-1. Download or clone this repository
-2. Add the files to your Unity project (2019.4+ recommended)
-3. Set up a Canvas with proper scaling for your game
-
 ## 🚀 Quick Start
 
 ### 1. Create Your UI Components
